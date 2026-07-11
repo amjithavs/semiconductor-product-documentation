@@ -12,19 +12,20 @@ It showcases documentation deliverables typically owned by a Senior Technical Wr
 
 ---
 
-## Documentation Scope
+## 📖 Documentation Library
 
-- Product Overview
-- Getting Started
-- Installation Guide
-- Configuration Guide
-- User Guide
-- Administrator Guide
-- CLI Reference
-- API Documentation
-- Release Notes
-- Troubleshooting Guide
-- FAQ
+| Document | Description |
+|----------|-------------|
+| **[Getting Started](docs/getting-started.md)** | Product introduction and onboarding |
+| Installation Guide | Install and verify the platform |
+| Configuration Guide | Configure the product |
+| User Guide | Daily product usage |
+| Administrator Guide | Administrative tasks |
+| CLI Reference | Command reference |
+| API Documentation | REST API documentation |
+| Release Notes | Product release history |
+| Troubleshooting Guide | Common issues and resolutions |
+| FAQ | Frequently Asked Questions |
 
 ---
 
