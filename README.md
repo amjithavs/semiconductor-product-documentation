@@ -20,7 +20,7 @@ This portfolio showcases my approach to planning, authoring, reviewing, publishi
 
 # Professional Highlights
 
-- ✔ 14+ Years of Technical Writing Experience
+- ✔ 12+ Years of Technical Writing Experience
 - ✔ Semiconductor (EDA) Documentation
 - ✔ FinTech Documentation
 - ✔ Enterprise Software Documentation
@@ -60,7 +60,7 @@ This portfolio showcases my approach to planning, authoring, reviewing, publishi
 
 | Metric | Value |
 |---------|------:|
-| Years of Experience | 14+ |
+| Years of Experience | 12+ |
 | Documentation Framework Guides | 20 |
 | Semiconductor Documentation Samples | 20 |
 | FinTech Documentation Samples | 15 |
