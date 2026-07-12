@@ -1,6 +1,35 @@
 # Technical Writing Portfolio
 
-A curated portfolio demonstrating end-to-end product documentation, API documentation, documentation strategy, and Docs-as-Code practices across Semiconductor, FinTech, and Enterprise SaaS domains.
+A curated portfolio demonstrating end-to-end product documentation, API documentation, documentation strategy, and Docs-as-Code practices across **Semiconductor**, **FinTech**, and **Enterprise Software** domains.
+
+---
+
+# About Me
+
+Hi, I'm **Amjitha VS**, a Senior Technical Writer with **14+ years of experience** creating technical documentation for enterprise software, semiconductor (EDA), and FinTech products.
+
+My expertise includes:
+
+- Product Documentation
+- API Documentation (REST, Swagger/OpenAPI)
+- Information Architecture
+- Docs-as-Code
+- Knowledge Management
+- Release Documentation
+- AI-Assisted Documentation
+- Documentation Governance
+
+This portfolio showcases original documentation samples that demonstrate my technical writing approach, documentation strategy, and content architecture.
+
+> **Disclaimer:** The documents in this portfolio are fictional or sanitized examples created for demonstration purposes and do not contain confidential or proprietary information from any employer.
+
+---
+
+# Portfolio Overview
+
+This repository demonstrates how technical documentation is planned, organized, authored, reviewed, published, and maintained throughout the product lifecycle.
+
+It includes documentation frameworks, product documentation samples, API documentation, release documentation, governance documents, and documentation best practices.
 
 ---
 
