@@ -43,7 +43,7 @@ It showcases documentation deliverables typically owned by a Senior Technical Wr
 
 # Professional Highlights
 
-- ✔ 14+ years of experience in Technical Documentation
+- ✔ 12+ years of experience in Technical Documentation
 - ✔ Semiconductor (EDA), FinTech, and Enterprise Software domains
 - ✔ Product Documentation, API Documentation, and Developer Guides
 - ✔ Information Architecture and Content Strategy
@@ -54,7 +54,18 @@ It showcases documentation deliverables typically owned by a Senior Technical Wr
 - ✔ Cross-functional collaboration with Engineering, Product Management, QA, and Customer Support
 
   ---
-  
+
+  # Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| Authoring | Markdown, MadCap Flare, DITA XML, Adobe FrameMaker, Oxygen XML |
+| API Documentation | REST APIs, Swagger/OpenAPI, Postman |
+| Docs-as-Code | Git, GitHub, Markdown |
+| Documentation | User Guides, Administrator Guides, Installation Guides, Release Notes, Knowledge Base, API Reference |
+| Collaboration | Jira, Confluence, Microsoft Teams |
+| Multimedia | Snagit, Camtasia, Draw.io |
+| Programming | HTML, CSS, XML |
 
 # 📘 Documentation Framework
 
@@ -228,5 +239,23 @@ assets/
 ---
 
 ## Status
+
+---
+
+# Connect
+
+📧 **Email:** amjithavs@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/amjitha-vs-576a1332
+
+💻 **GitHub:** https://github.com/amjithavs
+
+📄 **Resume:** Available upon request
+
+---
+
+**Thank you for visiting my Technical Writing Portfolio.**
+
+> This portfolio is continuously updated with new documentation samples and reflects my approach to creating clear, scalable, and user-focused technical documentation.
 
 🚧 Portfolio project under active development.
